@@ -1,5 +1,5 @@
 import xbmc, xbmcaddon
-addon_id = 'plugin.video.vdeobull'
+addon_id = 'plugin.video.daretv'
 selfAddon = xbmcaddon.Addon(id=addon_id)
 
 
